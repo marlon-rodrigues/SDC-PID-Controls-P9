@@ -29,4 +29,4 @@ I decided to manually tune the hyperparameters described above. I started using 
 
 ## Video with Results
 
-A video of the results named "PID-Controls-P9.mov" is located in the repository.
+A video of the results can be found [here](https://youtu.be/dQHF_KRFk10).
